@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  wiremock:
+    image: fdata-rest
+    command: --global-response-templating
+    ports:
+     - "8080:8080"

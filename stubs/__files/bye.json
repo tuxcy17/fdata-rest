@@ -1,0 +1,7 @@
+{
+  "good": "bye",
+  "bye": {
+    "good": "bye",
+    "bye": false
+  }
+}

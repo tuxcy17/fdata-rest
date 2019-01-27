@@ -1,0 +1,23 @@
+syntax: glob
+
+.idea/*
+.settings/*
+*.iml
+*.ipr
+*.iws
+*.orig
+*.classpath
+*.project
+*.sublime-project
+*.sublime-workspace
+
+node_modules
+dist
+docs
+misc
+target
+test-app/test_db
+test-app/test_files
+test-app/www_test/test.js
+*.tgz
+package-lock.json
